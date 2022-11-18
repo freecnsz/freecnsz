@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @freecnsz
+- 👀 I’m interested in backend programming and siber security.
+- 🌱 I’m currently learning Java.
+- 📫 You can reach me via e-mail ozgurcansiz1907@gmail.com or instagram by @freecnsz nickname
