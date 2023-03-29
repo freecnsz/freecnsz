@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @freecnsz
-- 👀 I’m interested in backend programming and siber security.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in backend programming, android developing and siber security.
+- 🌱 I’m currently learning Java and Kotlin.
 - 📫 You can reach me via e-mail ozgurcansiz1907@gmail.com or instagram by @freecnsz nickname
