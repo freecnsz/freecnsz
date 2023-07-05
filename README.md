@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freecnsz
-- 👀 I’m interested in backend programming, android developing and siber security.
+- 👀 I’m interested in backend programming, android developing and cyber security.
 - 🌱 I’m currently learning Java and Kotlin.
 - I have just dive into Flutter World!
 - 📫 You can reach me via e-mail ozgurcansizz@outlook.com or instagram by @freecnsz nickname
