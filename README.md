@@ -61,7 +61,7 @@ I'm a Computer Engineer passionate about **backend development** and **sustainab
 
 ## 🌐 Let's Connect & Collaborate
 
-[![Website](https://img.shields.io/badge/Website-freecns.com-blue?style=for-the-badge)](https://freecnsz.com)
+[![Website](https://img.shields.io/badge/Website-freecnsz.com-blue?style=for-the-badge)](https://freecnsz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/freecnsz)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ozgurcansizz@outlook.com)
 
